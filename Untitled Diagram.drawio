@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T10:00:44.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="J0oATWpOOzvyhnJdIw72" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T10:01:04.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="h1zymz4vUBfWxlk3UWDs" version="15.3.0" type="github">
   <diagram id="wbizNn7U0RBjRFVsRl-d" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
         <mxCell id="_OWNyDusY1XCbJMPDEwE-9" value="Cloud&#xa;Functions" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_functions" vertex="1" parent="1">
           <mxGeometry x="360" y="155.75" width="66" height="58.5" as="geometry" />
         </mxCell>
-        <mxCell id="_OWNyDusY1XCbJMPDEwE-17" value="&lt;b&gt;&lt;font&gt;Release Pipeline&lt;/font&gt;&lt;/b&gt;" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;fontColor=#999999;fillColor=#9999FF;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="_OWNyDusY1XCbJMPDEwE-17" value="&lt;b&gt;&lt;font color=&quot;#808080&quot;&gt;Release Pipeline&lt;/font&gt;&lt;/b&gt;" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;fontColor=#999999;fillColor=#9999FF;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="700" y="160" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_OWNyDusY1XCbJMPDEwE-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#e1d5e7;verticalAlign=top;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -54,7 +54,7 @@
         <mxCell id="_OWNyDusY1XCbJMPDEwE-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC99FF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="290" width="320" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="_OWNyDusY1XCbJMPDEwE-26" value="&lt;b&gt;Terraform&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=9;fontColor=#999999;" vertex="1" parent="1">
+        <mxCell id="_OWNyDusY1XCbJMPDEwE-26" value="&lt;b&gt;&lt;font color=&quot;#808080&quot;&gt;Terraform&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=9;fontColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="660" y="350" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
