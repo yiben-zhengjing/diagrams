@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T09:10:53.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="rmdGGuAClPAerNRfxTwm" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T09:30:08.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="ZP0oSUn3iUCo33fMivlt" version="15.3.0" type="github">
   <diagram id="wbizNn7U0RBjRFVsRl-d" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,37 @@
         <mxCell id="_OWNyDusY1XCbJMPDEwE-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="120" width="370" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="_OWNyDusY1XCbJMPDEwE-3" value="Cloud Scheduler" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;fontSize=9;fontStyle=0;fontColor=#999999;shape=mxgraph.gcp2.cloud_scheduler;textOpacity=80;" vertex="1" parent="1">
-          <mxGeometry x="160" y="170" width="30" height="30" as="geometry" />
+        <mxCell id="_OWNyDusY1XCbJMPDEwE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=9;fontColor=#6600CC;strokeColor=#6600CC;exitX=0.825;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.175;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_OWNyDusY1XCbJMPDEwE-4" target="_OWNyDusY1XCbJMPDEwE-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="185" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_OWNyDusY1XCbJMPDEwE-4" value="Cloud&#xa;Pub/Sub" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_pubsub" vertex="1" parent="1">
+          <mxGeometry x="247" y="155.75" width="66" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_OWNyDusY1XCbJMPDEwE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.175;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=9;fontColor=#6600CC;labelBorderColor=#6600CC;strokeColor=#6600CC;dashed=1;" edge="1" parent="1" source="_OWNyDusY1XCbJMPDEwE-6" target="_OWNyDusY1XCbJMPDEwE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_OWNyDusY1XCbJMPDEwE-6" value="Cloud Scheduler&lt;br&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;D7+Daily+Monthly&lt;/span&gt;" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.cloud_scheduler" vertex="1" parent="1">
+          <mxGeometry x="150" y="167.75" width="30" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_OWNyDusY1XCbJMPDEwE-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="540" y="90" width="260" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="_OWNyDusY1XCbJMPDEwE-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#d5e8d4;verticalAlign=top;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="557" y="144.25" width="226" height="275.75" as="geometry" />
+        </mxCell>
+        <mxCell id="_OWNyDusY1XCbJMPDEwE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=9;fontColor=#6600CC;strokeColor=#6600CC;" edge="1" parent="1" source="_OWNyDusY1XCbJMPDEwE-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_OWNyDusY1XCbJMPDEwE-9" value="Cloud&#xa;Functions" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_functions" vertex="1" parent="1">
+          <mxGeometry x="360" y="155.75" width="66" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_OWNyDusY1XCbJMPDEwE-17" value="&lt;b&gt;&lt;font color=&quot;rgba(0, 0, 0, 0)&quot;&gt;Release Pipeline&lt;/font&gt;&lt;/b&gt;" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;fontColor=#6600CC;fillColor=#9999FF;" vertex="1" parent="1">
+          <mxGeometry x="610" y="164.25" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
