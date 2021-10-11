@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-11T02:10:43.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="ILr8kaS4t5HTLDGT9Lgx" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-11T02:11:01.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="depwxHoFVXYmYkr7dbj9" version="15.3.0" type="github">
   <diagram id="wbizNn7U0RBjRFVsRl-d" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_OWNyDusY1XCbJMPDEwE-4" value="Cloud&#xa;Pub/Sub" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_pubsub" parent="1" vertex="1">
+        <mxCell id="_OWNyDusY1XCbJMPDEwE-4" value="Pub/Sub" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_pubsub" parent="1" vertex="1">
           <mxGeometry x="230" y="155.75" width="66" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="_OWNyDusY1XCbJMPDEwE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.175;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=9;fontColor=#6600CC;labelBorderColor=#6600CC;strokeColor=#6600CC;dashed=1;" parent="1" source="_OWNyDusY1XCbJMPDEwE-6" target="_OWNyDusY1XCbJMPDEwE-4" edge="1">
