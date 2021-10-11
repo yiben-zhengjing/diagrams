@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-11T07:35:39.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="W9PQ8bZmtWDw0U7_qNfH" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-11T07:38:44.966Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="wfAFMJ632TLSqTOM9AW9" version="15.3.0" type="github">
   <diagram id="wbizNn7U0RBjRFVsRl-d" name="Page-1">
     <mxGraphModel dx="1504" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -217,9 +217,6 @@
         </mxCell>
         <mxCell id="OVQhD1XBYilXCEwldeT_-8" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/dep/SQL_Server_Stretch_DB.svg;fillColor=#B8EDE4;" vertex="1" parent="1">
           <mxGeometry x="135" y="155.75" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OVQhD1XBYilXCEwldeT_-10" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="190" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OVQhD1XBYilXCEwldeT_-11" value="Azure DevOps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="45" y="215" width="40" height="20" as="geometry" />
