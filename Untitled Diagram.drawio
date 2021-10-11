@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-11T03:30:36.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="Fnxe2c5tzTUtKiRlIL66" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-11T03:30:59.767Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="061OfFY8CgpiQS5L6yfj" version="15.3.0" type="github">
   <diagram id="wbizNn7U0RBjRFVsRl-d" name="Page-1">
     <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
           <mxGeometry x="90" y="520" width="390" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FNfYz3_D4OQMXHXOM7oV-22" value="&lt;b&gt;Insight Zone&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="161.5" y="575" width="78.5" height="20" as="geometry" />
+          <mxGeometry x="111.5" y="547.5" width="78.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FNfYz3_D4OQMXHXOM7oV-25" value="CIO Analysis Insight" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#FFFFFF;strokeWidth=2;fillColor=#DBFFF2;fontColor=#999999;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="310" y="527.5" width="150" height="60" as="geometry" />
@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FNfYz3_D4OQMXHXOM7oV-29" value="" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=8;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=bigquery;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="527.5" width="50" height="42.5" as="geometry" />
+          <mxGeometry x="200" y="536.25" width="50" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="FNfYz3_D4OQMXHXOM7oV-34" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=8;fontColor=#999999;strokeColor=#FFFFFF;strokeWidth=2;fillColor=#E5CCFF;" vertex="1" parent="1">
           <mxGeometry x="535" y="420" width="265" height="190" as="geometry" />
