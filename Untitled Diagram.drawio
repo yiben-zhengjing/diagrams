@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-11T03:10:43.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="wFATz6-Nkc9JstQE9fSA" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-11T03:11:42.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="KW224TZETgSgEfzxfZwQ" version="15.3.0" type="github">
   <diagram id="wbizNn7U0RBjRFVsRl-d" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -153,6 +153,9 @@
         </mxCell>
         <mxCell id="FNfYz3_D4OQMXHXOM7oV-34" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=8;fontColor=#999999;strokeColor=#FFFFFF;strokeWidth=2;fillColor=#E5CCFF;" vertex="1" parent="1">
           <mxGeometry x="535" y="410" width="265" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="FNfYz3_D4OQMXHXOM7oV-36" value="Cloud Scheduler&lt;br&gt;Daily" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.cloud_scheduler" vertex="1" parent="1">
+          <mxGeometry x="580" y="435.5" width="20" height="24.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
