@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-11T02:43:57.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="l4T66N2HKEPs38wxQ4Vy" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-11T02:45:58.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="YMl01FffB2bTtN-1FzYM" version="15.3.0" type="github">
   <diagram id="wbizNn7U0RBjRFVsRl-d" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,11 +69,14 @@
         <mxCell id="FNfYz3_D4OQMXHXOM7oV-14" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#FFFFFF;strokeWidth=2;fillColor=#CCFFFF;" vertex="1" parent="1">
           <mxGeometry x="70" y="300" width="120" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="FNfYz3_D4OQMXHXOM7oV-15" value="Azure DevOps" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#FFFFFF;strokeWidth=2;fillColor=#D3BFE2;" vertex="1" parent="1">
-          <mxGeometry x="90" y="322.75" width="80" height="57.25" as="geometry" />
+        <mxCell id="FNfYz3_D4OQMXHXOM7oV-15" value="&lt;b&gt;&lt;font color=&quot;#999999&quot;&gt;Azure DevOps&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#FFFFFF;strokeWidth=2;fillColor=#D3BFE2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="340" width="80" height="57.25" as="geometry" />
         </mxCell>
-        <mxCell id="FNfYz3_D4OQMXHXOM7oV-16" value="AIM" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#FFFFFF;strokeWidth=2;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="90" y="400" width="80" height="57.25" as="geometry" />
+        <mxCell id="FNfYz3_D4OQMXHXOM7oV-16" value="&lt;font color=&quot;#999999&quot;&gt;&lt;b&gt;AIM&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#FFFFFF;strokeWidth=2;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="90" y="412.75" width="80" height="57.25" as="geometry" />
+        </mxCell>
+        <mxCell id="FNfYz3_D4OQMXHXOM7oV-17" value="&lt;b&gt;Raw Zone&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="101.5" y="309.25" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
